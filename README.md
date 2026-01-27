@@ -19,5 +19,19 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/balajii-dev/Counter.git
 cd Counter
+```
 
+### 🏗 2. Install Dependencies
+```bash
+npm install
+```
+
+### ▶️ 3. Run the App
+```bash
+npm run dev
+```
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js (Functional Components + Hooks)  
+- **Styling:** Tailwind CSS  
 
